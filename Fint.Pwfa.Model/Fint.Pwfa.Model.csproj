@@ -8,7 +8,7 @@
     <PackageVersion>1.0.0</PackageVersion>
     <Company>Vigo IKS</Company>
     <Authors>FINTLabs</Authors>
-    <Description>Model for use with Paly with FINT</Description>
+    <Description>Model for use with Play with FINT</Description>
     <SynchReleaseVersion>true</SynchReleaseVersion>
   </PropertyGroup>
 
